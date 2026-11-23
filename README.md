@@ -2,7 +2,7 @@
 
 Personal software engineering and embedded IoT portfolio built with **React**, **Vite**, and **Tailwind CSS**. Showcases hands-on projects spanning embedded systems (`ESP32`, `C++`, `PlatformIO`), industrial HMI interfaces (`Qt6 / QML`, `Python`), local AI diagnostics (`Ollama / Gemma 2`, `RAG`), and cross-platform mobile/web applications (`Flutter`, `React`, `MQTT`). 
 
-🌐 **Live Portfolio:** [View Deployed Site](#) *(Replace with your Vercel URL after deployment)* 
+🌐 **Live Portfolio:** [View Deployed Site](#) *(https://portfolio-chi-rust-a1345fltdr.vercel.app/)* 
 
 ## Tech Stack
 * **Frontend:** React, Vite, Tailwind CSS 
